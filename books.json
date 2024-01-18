@@ -1,0 +1,37 @@
+[
+  {
+    "book_id": 10,
+    "title": "Test",
+    "author": "Amin"
+  },
+  {
+    "book_id": 12,
+    "title": "Messi",
+    "author": "Mustafa"
+  },
+  {
+    "book_id": 23,
+    "title": "wow",
+    "author": "ameen"
+  },
+  {
+    "book_id": 100,
+    "title": "Test",
+    "author": "Ameen"
+  },
+  {
+    "book_id": 521,
+    "title": "Data structure ",
+    "author": "mr. abdu "
+  },
+  {
+    "book_id": 800,
+    "title": "DLMS test",
+    "author": "commence"
+  },
+  {
+    "book_id": 2024,
+    "title": "",
+    "author": ""
+  }
+]
